@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Week2_0706012110031</string>
+    <string-array name="jenis">
+        <item>-</item>
+        <item>Ayam</item>
+        <item>Sapi</item>
+        <item>Kambing</item>
+    </string-array>
+</resources>
